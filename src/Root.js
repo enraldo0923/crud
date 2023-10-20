@@ -6,8 +6,8 @@ import Hook from "./Hook.jsx"
     render(){
         return (
             <div style={{display: "flex"}}>
-                <Class/>
-                 {/* <Hook/> */}
+                {/* <Class/> */}
+                 <Hook/>
             </div>
         )
     }
